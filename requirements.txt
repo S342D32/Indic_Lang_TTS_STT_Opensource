@@ -1,0 +1,6 @@
+numpy<=1.26.4
+transformers>=4.49.0,<4.50
+torch>=2.0.0
+soundfile
+f5_tts
+pydub
